@@ -3,10 +3,10 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Report USA | Crucial News</title>
+    <title>Report PT | Noticias do Dia</title>
     <description>Resumo diario de noticias</description>
     <language>pt</language>
-    <lastBuildDate>Mon, 18 May 2026 22:27:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 22:38:00 +0000</lastBuildDate>
     <link>https://miguellopes133.github.io/report-pt-podcast/</link>
     <itunes:author>Report PT</itunes:author>
     <managingEditor>miguellopes.design@gmail.com (Report PT)</managingEditor>
@@ -19,16 +19,16 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
-      <title>Trump Sinks in Polls! Iran Strike & Midterm Chaos | Noite 18/05/2026</title>
-      <description>Resumo editorial das principais noticias de United States - Noite de 18/05/2026.
+      <title>Chega arrasa Governo! E Mourinho no Benfica? | Noite 18/05/2026</title>
+      <description>Resumo editorial das principais noticias de Portugal - Noite de 18/05/2026.
 
 Conteudo editorial original baseado em factos de dominio publico.
-Fontes consultadas: feeds.npr.org, rss.nytimes.com, feeds.washingtonpost.com, www.cnbc.com, feeds.foxnews.com
+Fontes consultadas: feeds.publico.pt, observador.pt, rss.rtp.pt, www.jornaldenegocios.pt, www.cmjornal.pt
 
 Subscreve para nao perderes nenhum episodio!</description>
-      <enclosure url="https://miguellopes133.github.io/report-pt-podcast/US_20260518_2217_noite.mp3" type="audio/mpeg" length="0"/>
-      <pubDate>Mon, 18 May 2026 22:27:11 +0000</pubDate>
-      <guid isPermaLink="false">https://miguellopes133.github.io/report-pt-podcast/US_20260518_2217_noite.mp3</guid>
+      <enclosure url="https://miguellopes133.github.io/report-pt-podcast/PT_20260518_2234_noite.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 18 May 2026 22:38:00 +0000</pubDate>
+      <guid isPermaLink="false">https://miguellopes133.github.io/report-pt-podcast/PT_20260518_2234_noite.mp3</guid>
       <itunes:duration>300</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
