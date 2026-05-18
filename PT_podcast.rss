@@ -3,10 +3,10 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Report ES | Noticias España Hoy</title>
+    <title>Report UK | News Today</title>
     <description>Resumo diario de noticias</description>
     <language>pt</language>
-    <lastBuildDate>Mon, 18 May 2026 22:11:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 22:14:25 +0000</lastBuildDate>
     <link>https://miguellopes133.github.io/report-pt-podcast/</link>
     <itunes:author>Report PT</itunes:author>
     <managingEditor>miguellopes.design@gmail.com (Report PT)</managingEditor>
@@ -19,16 +19,16 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
-      <title>Moreno SIN mayoría: ¿Pacto con Vox inevitable? | Noite 18/05/2026</title>
-      <description>Resumo editorial das principais noticias de España - Noite de 18/05/2026.
+      <title>Brides raped on TV? Musk LOSES in court! UK in shock | Noite 18/05/2026</title>
+      <description>Resumo editorial das principais noticias de United Kingdom - Noite de 18/05/2026.
 
 Conteudo editorial original baseado em factos de dominio publico.
-Fontes consultadas: feeds.elpais.com, www.elmundo.es, www.rtve.es, www.lavanguardia.com, www.elconfidencial.com
+Fontes consultadas: feeds.bbci.co.uk, www.theguardian.com, feeds.skynews.com, www.independent.co.uk, www.telegraph.co.uk
 
 Subscreve para nao perderes nenhum episodio!</description>
-      <enclosure url="https://miguellopes133.github.io/report-pt-podcast/ES_20260518_2207_noite.mp3" type="audio/mpeg" length="0"/>
-      <pubDate>Mon, 18 May 2026 22:11:07 +0000</pubDate>
-      <guid isPermaLink="false">https://miguellopes133.github.io/report-pt-podcast/ES_20260518_2207_noite.mp3</guid>
+      <enclosure url="https://miguellopes133.github.io/report-pt-podcast/UK_20260518_2211_noite.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 18 May 2026 22:14:25 +0000</pubDate>
+      <guid isPermaLink="false">https://miguellopes133.github.io/report-pt-podcast/UK_20260518_2211_noite.mp3</guid>
       <itunes:duration>300</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
