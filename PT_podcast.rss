@@ -3,10 +3,10 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Report PT | Noticias do Dia</title>
+    <title>Report ES | Noticias España Hoy</title>
     <description>Resumo diario de noticias</description>
     <language>pt</language>
-    <lastBuildDate>Mon, 18 May 2026 17:29:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 19:02:16 +0000</lastBuildDate>
     <link>https://miguellopes133.github.io/report-pt-podcast/</link>
     <itunes:author>Report PT</itunes:author>
     <managingEditor>miguellopes.design@gmail.com (Report PT)</managingEditor>
@@ -19,16 +19,16 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
-      <title>Notícias Portugal — Noite 18/05/2026 | Report PT | Noticias do Dia</title>
-      <description>Resumo editorial das principais noticias de Portugal - Noite de 18/05/2026.
+      <title>Notícias España — Noite 18/05/2026 | Report ES | Noticias España Hoy</title>
+      <description>Resumo editorial das principais noticias de España - Noite de 18/05/2026.
 
 Conteudo editorial original baseado em factos de dominio publico.
-Fontes consultadas: feeds.publico.pt, observador.pt, rss.rtp.pt, www.jornaldenegocios.pt, www.cmjornal.pt
+Fontes consultadas: feeds.elpais.com, www.elmundo.es, www.rtve.es, www.lavanguardia.com, www.elconfidencial.com
 
 Subscreve para nao perderes nenhum episodio!</description>
-      <enclosure url="https://miguellopes133.github.io/report-pt-podcast/PT_20260518_1721_noite.mp3" type="audio/mpeg" length="0"/>
-      <pubDate>Mon, 18 May 2026 17:29:00 +0000</pubDate>
-      <guid isPermaLink="false">https://miguellopes133.github.io/report-pt-podcast/PT_20260518_1721_noite.mp3</guid>
+      <enclosure url="https://miguellopes133.github.io/report-pt-podcast/ES_20260518_1731_noite.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 18 May 2026 19:02:16 +0000</pubDate>
+      <guid isPermaLink="false">https://miguellopes133.github.io/report-pt-podcast/ES_20260518_1731_noite.mp3</guid>
       <itunes:duration>300</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
