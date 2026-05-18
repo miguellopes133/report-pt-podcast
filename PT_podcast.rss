@@ -3,10 +3,10 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Report BR | Notícias Brasil Hoje</title>
+    <title>Report ES | Noticias España Hoy</title>
     <description>Resumo diario de noticias</description>
     <language>pt</language>
-    <lastBuildDate>Mon, 18 May 2026 19:41:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 19:44:25 +0000</lastBuildDate>
     <link>https://miguellopes133.github.io/report-pt-podcast/</link>
     <itunes:author>Report PT</itunes:author>
     <managingEditor>miguellopes.design@gmail.com (Report PT)</managingEditor>
@@ -19,16 +19,16 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
-      <title>Ebola nos EUA! E escândalo no STJ que você precisa saber | Noite 18/05/2026</title>
-      <description>Resumo editorial das principais noticias de Brasil - Noite de 18/05/2026.
+      <title>Moreno solo o con Vox: la gran decisión que lo cambia todo | Noite 18/05/2026</title>
+      <description>Resumo editorial das principais noticias de España - Noite de 18/05/2026.
 
 Conteudo editorial original baseado em factos de dominio publico.
-Fontes consultadas: g1.globo.com, feeds.folha.uol.com.br, www.uol.com.br, agenciabrasil.ebc.com.br, www.correiobraziliense.com.br
+Fontes consultadas: feeds.elpais.com, www.elmundo.es, www.rtve.es, www.lavanguardia.com, www.elconfidencial.com
 
 Subscreve para nao perderes nenhum episodio!</description>
-      <enclosure url="https://miguellopes133.github.io/report-pt-podcast/BR_20260518_1938_noite.mp3" type="audio/mpeg" length="0"/>
-      <pubDate>Mon, 18 May 2026 19:41:01 +0000</pubDate>
-      <guid isPermaLink="false">https://miguellopes133.github.io/report-pt-podcast/BR_20260518_1938_noite.mp3</guid>
+      <enclosure url="https://miguellopes133.github.io/report-pt-podcast/ES_20260518_1941_noite.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Mon, 18 May 2026 19:44:25 +0000</pubDate>
+      <guid isPermaLink="false">https://miguellopes133.github.io/report-pt-podcast/ES_20260518_1941_noite.mp3</guid>
       <itunes:duration>300</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
