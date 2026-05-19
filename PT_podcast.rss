@@ -3,10 +3,10 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Report ES | Noticias España Hoy</title>
+    <title>Report UK | News Today</title>
     <description>Resumo diario de noticias</description>
     <language>pt</language>
-    <lastBuildDate>Tue, 19 May 2026 11:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:40:04 +0000</lastBuildDate>
     <link>https://miguellopes133.github.io/report-pt-podcast/</link>
     <itunes:author>Report PT</itunes:author>
     <managingEditor>miguellopes.design@gmail.com (Report PT)</managingEditor>
@@ -19,16 +19,16 @@
     <itunes:explicit>false</itunes:explicit>
     
     <item>
-      <title>¡Zapatero IMPUTADO! ¿Caen los capos de la trama? | Manhã 19/05/2026</title>
-      <description>Resumo editorial das principais noticias de España - Manhã de 19/05/2026.
+      <title>MAFS UK Rape Scandal: Channel 4 Boss Walks Away | Manhã 19/05/2026</title>
+      <description>Resumo editorial das principais noticias de United Kingdom - Manhã de 19/05/2026.
 
 Conteudo editorial original baseado em factos de dominio publico.
-Fontes consultadas: feeds.elpais.com, www.elmundo.es, www.rtve.es, www.lavanguardia.com, www.elconfidencial.com
+Fontes consultadas: feeds.bbci.co.uk, www.theguardian.com, feeds.skynews.com, www.independent.co.uk, www.telegraph.co.uk
 
 Subscreve para nao perderes nenhum episodio!</description>
-      <enclosure url="https://miguellopes133.github.io/report-pt-podcast/ES_20260519_1132_manhã.mp3" type="audio/mpeg" length="0"/>
-      <pubDate>Tue, 19 May 2026 11:36:37 +0000</pubDate>
-      <guid isPermaLink="false">https://miguellopes133.github.io/report-pt-podcast/ES_20260519_1132_manhã.mp3</guid>
+      <enclosure url="https://miguellopes133.github.io/report-pt-podcast/UK_20260519_1136_manhã.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Tue, 19 May 2026 11:40:04 +0000</pubDate>
+      <guid isPermaLink="false">https://miguellopes133.github.io/report-pt-podcast/UK_20260519_1136_manhã.mp3</guid>
       <itunes:duration>300</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
