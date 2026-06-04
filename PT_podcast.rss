@@ -6,7 +6,7 @@
     <title>Report PT | Noticias do Dia</title>
     <description>Resumo diario de noticias</description>
     <language>pt</language>
-    <lastBuildDate>Thu, 04 Jun 2026 11:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 21:03:11 +0000</lastBuildDate>
     <link>https://miguellopes133.github.io/report-pt-podcast/</link>
     <itunes:author>Report PT</itunes:author>
     <managingEditor>miguellopes.design@gmail.com (Report PT)</managingEditor>
@@ -18,6 +18,20 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     
+    <item>
+      <title>Zelensky desafia Putin! E a bomba-relógio portuguesa | Noite 04/06/2026</title>
+      <description>Resumo editorial das principais noticias de Portugal - Noite de 04/06/2026.
+
+Conteudo editorial original baseado em factos de dominio publico.
+Fontes consultadas: feeds.publico.pt, observador.pt, rss.rtp.pt, www.jornaldenegocios.pt, www.cmjornal.pt
+
+Subscreve para nao perderes nenhum episodio!</description>
+      <enclosure url="https://miguellopes133.github.io/report-pt-podcast/PT_20260604_2100_noite.mp3" type="audio/mpeg" length="0"/>
+      <pubDate>Thu, 04 Jun 2026 21:03:10 +0000</pubDate>
+      <guid isPermaLink="false">https://miguellopes133.github.io/report-pt-podcast/PT_20260604_2100_noite.mp3</guid>
+      <itunes:duration>300</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tubarão morto nos Açores: imagens chocantes reveladas | Manhã 04/06/2026</title>
       <description>Resumo editorial das principais noticias de Portugal - Manhã de 04/06/2026.
